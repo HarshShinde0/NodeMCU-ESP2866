@@ -3,6 +3,9 @@
 ![image](https://github.com/HarshShinde0/NodaMCU-ESP2866/assets/113786425/af4db1fc-f8f5-476c-9e74-ee80ba6bd274)
 
 
+NodeMCU-ESP2866 Driver - https://github.com/HarshShinde0/NodaMCU-ESP2866/blob/main/CH34x_Install_Windows_v3_4.zip
+
+
 The NodeMCU ESP8266 is a popular open-source platform used for building Wi-Fi-enabled projects and Internet of Things (IoT) applications. Here's some information about it:
 
 1. NodeMCU: NodeMCU is an open-source firmware and development kit that helps to quickly prototype IoT products. It provides a simple and easy-to-use platform for programming ESP8266 Wi-Fi modules. The name "NodeMCU" comes from "Node," which refers to a single device in a network, and "MCU," which stands for Microcontroller Unit.
