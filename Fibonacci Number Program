@@ -1,0 +1,19 @@
+	AREA    RESET, CODE, READONLY
+	ENTRY
+
+start	MOV     R1, #16     
+		MOV     R3, #0      
+		MOV     R0, #1      
+		MOV     R2, #1      
+whn		CMP     R2, R1      
+		BHS     endwhn      
+		ADD     R2, R2, #1  
+		MOV     R4, R0      
+		ADD     R0, R0, R3  
+		MOV     R3, R4     
+		B       whn         ; }
+endwhn
+
+STOP    B       STOP
+
+		END
